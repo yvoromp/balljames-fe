@@ -1,5 +1,5 @@
 import React from 'react'
-import DataFetching from './DataFetching';
+import DataFetching from './components/DataFetching/DataFetching'
 
 const App = () => {
 

@@ -1,0 +1,25 @@
+.playerContainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 48px;
+    height: 48px;
+}
+
+.playerImg{
+    display: block;
+    width: inherit;
+    height: inherit;
+    background-image: url('./blue-circle-48.png');
+}
+
+.playerId {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-weight: bolder;
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+}

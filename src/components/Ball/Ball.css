@@ -1,0 +1,16 @@
+.ballContainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 24px;
+    height: 24px;
+}
+
+.ballImg{
+    display: block;
+    width: inherit;
+    height: inherit;
+    background-image: url('./soccer-ball-24.png');
+}

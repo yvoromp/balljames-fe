@@ -1,0 +1,14 @@
+.gameWindow {
+    position: relative;
+    width: 840px;
+    height: 544px;;
+}
+
+.gameImg {
+    display: block;
+    width: inherit;
+    height: inherit;
+    background-image: url('./football-pitch-png-6.png');
+    background-size: cover;
+    border-style: solid;
+}
